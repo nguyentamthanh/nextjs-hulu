@@ -3,6 +3,7 @@
 @tailwind utilities;
 @layer base {
   body {
-    @apply bg-[#06202A] text-gray-300;
+    /* background-color: linear-gradient(0deg, #4f39fa, #da62c4); */
+    @apply bg-[#4f39fa] text-gray-300;
   }
 }
